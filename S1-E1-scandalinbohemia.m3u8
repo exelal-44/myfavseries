@@ -4,6 +4,11 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",
+DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="id",
+URI="https://cdn.jsdelivr.net/gh/exelal-44/subs/Sherlock%20Holmes.S01E01.A%20Scandal%20in%20Bohemia-id.vtt"
+
 #EXTINF:5.005,
 https://quantumvibecollective.xyz/content/9b5fc60d28da9395b90b9a8049c183aa/7e39f90815d0cbca3fcb1178fb9fa803/page-0.html
 #EXTINF:5.005,
