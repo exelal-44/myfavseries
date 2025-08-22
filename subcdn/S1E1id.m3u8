@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",
+DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="id",
+URI="https://cdn.jsdelivr.net/gh/exelal-44/subs/Sherlock%20Holmes.S01E01.A%20Scandal%20in%20Bohemia-id.vtt"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=1280x720,SUBTITLES="subs"
+https://github.com/exelal-44/myfavseries/raw/refs/heads/main/S1-E1-scandalinbohemia.m3u8
